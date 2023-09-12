@@ -1,11 +1,4 @@
-Certainly! Here's a README file for your San Francisco Salaries data analysis project:
-
----
-
 # San Francisco Salaries Data Analysis (Python EDA)
-
-![San Francisco Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/San_Francisco_City_Hall.jpg/220px-San_Francisco_City_Hall.jpg)
-
 This repository contains the code and documentation for an Exploratory Data Analysis (EDA) of San Francisco city salaries data using Python.
 
 ## Dataset
